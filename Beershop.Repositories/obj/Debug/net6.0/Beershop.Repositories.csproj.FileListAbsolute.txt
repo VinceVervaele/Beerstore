@@ -1,0 +1,34 @@
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\Beershop\Beershop.Repositories\bin\Debug\net6.0\Beershop.Repositories.deps.json
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\Beershop\Beershop.Repositories\bin\Debug\net6.0\Beershop.Repositories.runtimeconfig.json
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\Beershop\Beershop.Repositories\bin\Debug\net6.0\Beershop.Repositories.dll
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\Beershop\Beershop.Repositories\bin\Debug\net6.0\Beershop.Repositories.pdb
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\Beershop\Beershop.Repositories\bin\Debug\net6.0\Beershop.Domain.dll
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\Beershop\Beershop.Repositories\bin\Debug\net6.0\Beershop.Domain.pdb
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\Beershop\Beershop.Repositories\obj\Debug\net6.0\Beershop.Repositories.csproj.AssemblyReference.cache
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\Beershop\Beershop.Repositories\obj\Debug\net6.0\Beershop.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\Beershop\Beershop.Repositories\obj\Debug\net6.0\Beershop.Repositories.AssemblyInfoInputs.cache
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\Beershop\Beershop.Repositories\obj\Debug\net6.0\Beershop.Repositories.AssemblyInfo.cs
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\Beershop\Beershop.Repositories\obj\Debug\net6.0\Beershop.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\Beershop\Beershop.Repositories\obj\Debug\net6.0\Beershop.Repositories.csproj.CopyComplete
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\Beershop\Beershop.Repositories\obj\Debug\net6.0\Beershop.Repositories.dll
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\Beershop\Beershop.Repositories\obj\Debug\net6.0\refint\Beershop.Repositories.dll
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\Beershop\Beershop.Repositories\obj\Debug\net6.0\Beershop.Repositories.pdb
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\Beershop\Beershop.Repositories\obj\Debug\net6.0\Beershop.Repositories.genruntimeconfig.cache
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\Beershop\Beershop.Repositories\obj\Debug\net6.0\ref\Beershop.Repositories.dll
+C:\Users\vince\Documents\Full stack\Web development Semester 2\BeershopBeginSituatie\Beershop.Repositories\bin\Debug\net6.0\Beershop.Repositories.deps.json
+C:\Users\vince\Documents\Full stack\Web development Semester 2\BeershopBeginSituatie\Beershop.Repositories\bin\Debug\net6.0\Beershop.Repositories.runtimeconfig.json
+C:\Users\vince\Documents\Full stack\Web development Semester 2\BeershopBeginSituatie\Beershop.Repositories\bin\Debug\net6.0\Beershop.Repositories.dll
+C:\Users\vince\Documents\Full stack\Web development Semester 2\BeershopBeginSituatie\Beershop.Repositories\bin\Debug\net6.0\Beershop.Repositories.pdb
+C:\Users\vince\Documents\Full stack\Web development Semester 2\BeershopBeginSituatie\Beershop.Repositories\bin\Debug\net6.0\Beershop.Domain.dll
+C:\Users\vince\Documents\Full stack\Web development Semester 2\BeershopBeginSituatie\Beershop.Repositories\bin\Debug\net6.0\Beershop.Domain.pdb
+C:\Users\vince\Documents\Full stack\Web development Semester 2\BeershopBeginSituatie\Beershop.Repositories\obj\Debug\net6.0\Beershop.Repositories.csproj.AssemblyReference.cache
+C:\Users\vince\Documents\Full stack\Web development Semester 2\BeershopBeginSituatie\Beershop.Repositories\obj\Debug\net6.0\Beershop.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vince\Documents\Full stack\Web development Semester 2\BeershopBeginSituatie\Beershop.Repositories\obj\Debug\net6.0\Beershop.Repositories.AssemblyInfoInputs.cache
+C:\Users\vince\Documents\Full stack\Web development Semester 2\BeershopBeginSituatie\Beershop.Repositories\obj\Debug\net6.0\Beershop.Repositories.AssemblyInfo.cs
+C:\Users\vince\Documents\Full stack\Web development Semester 2\BeershopBeginSituatie\Beershop.Repositories\obj\Debug\net6.0\Beershop.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\vince\Documents\Full stack\Web development Semester 2\BeershopBeginSituatie\Beershop.Repositories\obj\Debug\net6.0\Beershop.Repositories.csproj.CopyComplete
+C:\Users\vince\Documents\Full stack\Web development Semester 2\BeershopBeginSituatie\Beershop.Repositories\obj\Debug\net6.0\Beershop.Repositories.dll
+C:\Users\vince\Documents\Full stack\Web development Semester 2\BeershopBeginSituatie\Beershop.Repositories\obj\Debug\net6.0\refint\Beershop.Repositories.dll
+C:\Users\vince\Documents\Full stack\Web development Semester 2\BeershopBeginSituatie\Beershop.Repositories\obj\Debug\net6.0\Beershop.Repositories.pdb
+C:\Users\vince\Documents\Full stack\Web development Semester 2\BeershopBeginSituatie\Beershop.Repositories\obj\Debug\net6.0\Beershop.Repositories.genruntimeconfig.cache
+C:\Users\vince\Documents\Full stack\Web development Semester 2\BeershopBeginSituatie\Beershop.Repositories\obj\Debug\net6.0\ref\Beershop.Repositories.dll

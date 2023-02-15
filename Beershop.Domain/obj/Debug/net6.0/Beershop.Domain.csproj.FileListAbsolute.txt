@@ -1,0 +1,28 @@
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\Beershop\Beershop.Domain\bin\Debug\net6.0\Beershop.Domain.deps.json
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\Beershop\Beershop.Domain\bin\Debug\net6.0\Beershop.Domain.runtimeconfig.json
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\Beershop\Beershop.Domain\bin\Debug\net6.0\Beershop.Domain.dll
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\Beershop\Beershop.Domain\bin\Debug\net6.0\Beershop.Domain.pdb
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\Beershop\Beershop.Domain\obj\Debug\net6.0\Beershop.Domain.csproj.AssemblyReference.cache
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\Beershop\Beershop.Domain\obj\Debug\net6.0\Beershop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\Beershop\Beershop.Domain\obj\Debug\net6.0\Beershop.Domain.AssemblyInfoInputs.cache
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\Beershop\Beershop.Domain\obj\Debug\net6.0\Beershop.Domain.AssemblyInfo.cs
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\Beershop\Beershop.Domain\obj\Debug\net6.0\Beershop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\Beershop\Beershop.Domain\obj\Debug\net6.0\Beershop.Domain.dll
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\Beershop\Beershop.Domain\obj\Debug\net6.0\refint\Beershop.Domain.dll
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\Beershop\Beershop.Domain\obj\Debug\net6.0\Beershop.Domain.pdb
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\Beershop\Beershop.Domain\obj\Debug\net6.0\Beershop.Domain.genruntimeconfig.cache
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\Beershop\Beershop.Domain\obj\Debug\net6.0\ref\Beershop.Domain.dll
+C:\Users\vince\Documents\Full stack\Web development Semester 2\BeershopBeginSituatie\Beershop.Domain\bin\Debug\net6.0\Beershop.Domain.deps.json
+C:\Users\vince\Documents\Full stack\Web development Semester 2\BeershopBeginSituatie\Beershop.Domain\bin\Debug\net6.0\Beershop.Domain.runtimeconfig.json
+C:\Users\vince\Documents\Full stack\Web development Semester 2\BeershopBeginSituatie\Beershop.Domain\bin\Debug\net6.0\Beershop.Domain.dll
+C:\Users\vince\Documents\Full stack\Web development Semester 2\BeershopBeginSituatie\Beershop.Domain\bin\Debug\net6.0\Beershop.Domain.pdb
+C:\Users\vince\Documents\Full stack\Web development Semester 2\BeershopBeginSituatie\Beershop.Domain\obj\Debug\net6.0\Beershop.Domain.csproj.AssemblyReference.cache
+C:\Users\vince\Documents\Full stack\Web development Semester 2\BeershopBeginSituatie\Beershop.Domain\obj\Debug\net6.0\Beershop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vince\Documents\Full stack\Web development Semester 2\BeershopBeginSituatie\Beershop.Domain\obj\Debug\net6.0\Beershop.Domain.AssemblyInfoInputs.cache
+C:\Users\vince\Documents\Full stack\Web development Semester 2\BeershopBeginSituatie\Beershop.Domain\obj\Debug\net6.0\Beershop.Domain.AssemblyInfo.cs
+C:\Users\vince\Documents\Full stack\Web development Semester 2\BeershopBeginSituatie\Beershop.Domain\obj\Debug\net6.0\Beershop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vince\Documents\Full stack\Web development Semester 2\BeershopBeginSituatie\Beershop.Domain\obj\Debug\net6.0\Beershop.Domain.dll
+C:\Users\vince\Documents\Full stack\Web development Semester 2\BeershopBeginSituatie\Beershop.Domain\obj\Debug\net6.0\refint\Beershop.Domain.dll
+C:\Users\vince\Documents\Full stack\Web development Semester 2\BeershopBeginSituatie\Beershop.Domain\obj\Debug\net6.0\Beershop.Domain.pdb
+C:\Users\vince\Documents\Full stack\Web development Semester 2\BeershopBeginSituatie\Beershop.Domain\obj\Debug\net6.0\Beershop.Domain.genruntimeconfig.cache
+C:\Users\vince\Documents\Full stack\Web development Semester 2\BeershopBeginSituatie\Beershop.Domain\obj\Debug\net6.0\ref\Beershop.Domain.dll
