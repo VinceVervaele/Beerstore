@@ -1,5 +1,4 @@
 ﻿using AutoMapper;
-
 using BeerShop.ViewModels;
 using BeerStore.Models.Entities;
 
@@ -53,6 +52,7 @@ namespace BeerShop.AutoMapper
 
             CreateMap<BeerEditVM, Beer>();
             CreateMap<Beer, BeerEditVM>();
+
 
         }
     }

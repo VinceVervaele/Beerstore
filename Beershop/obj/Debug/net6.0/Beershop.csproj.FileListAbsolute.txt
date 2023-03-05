@@ -560,3 +560,4 @@ C:\Users\vince\Documents\Full stack\Web development Semester 2\BeershopBeginSitu
 C:\Users\vince\Documents\Full stack\Web development Semester 2\BeershopBeginSituatie\Beershop\obj\Debug\net6.0\Beershop.pdb
 C:\Users\vince\Documents\Full stack\Web development Semester 2\BeershopBeginSituatie\Beershop\obj\Debug\net6.0\Beershop.genruntimeconfig.cache
 C:\Users\vince\Documents\Full stack\Web development Semester 2\BeershopBeginSituatie\Beershop\obj\Debug\net6.0\ref\Beershop.dll
+C:\Users\vince\Documents\Full stack\Web development Semester 2\BeershopBeginSituatie\Beershop\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
